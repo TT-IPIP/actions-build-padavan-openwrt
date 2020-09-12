@@ -154,6 +154,6 @@ schedule:                 # 时间表
 
 - [padavan 构建参考](https://github.com/chongshengB/Padavan-build) © chongshengB
 
-## License
+## License 
 
 [MIT](./LICENSE) © HuaZhuangNan(花妆男)
